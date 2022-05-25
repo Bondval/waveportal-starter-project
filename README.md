@@ -1,10 +1,10 @@
 # Hey it's my first Web3 app 👋 
-# Connect your Ethereum wallet and wave whatever you want to me!
+### Connect your Ethereum wallet and wave me!
 
-### **Link to deployed to heroku version**
+### **Deployed to heroku version**
 https://first-web3-app.herokuapp.com/
 
-### **For development!**
+### **For developers**
 To get started clone this repo and follow these commands:
 
 1. Run `npm install` at the root of your directory
