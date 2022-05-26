@@ -1,8 +1,8 @@
 # Hey it's my first Web3 app 👋 
 ### Connect your Ethereum wallet and wave me!
 
-### **Deployed to heroku version**
-https://first-web3-app.herokuapp.com/
+### **Deployed version**
+https://first-web3-app.on.fleek.co/
 
 ### **For developers**
 To get started clone this repo and follow these commands:
