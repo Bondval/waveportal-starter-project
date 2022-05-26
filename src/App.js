@@ -180,7 +180,7 @@ const App = () => {
   useEffect(() => {
     checkIfWalletIsConnected();
     const { ethereum } = window;
-    ethereum.on('accountsChanged', async (accounts) => {
+    ethereum?.on('accountsChanged', async (accounts) => {
       if (!accounts.length) {
         setAllWaves([]);
         setCurrentAccount('');
